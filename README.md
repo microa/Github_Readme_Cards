@@ -1,4 +1,4 @@
-## Personal_Pages
+<h1 align="center"> Github Readme Status </h1>
 
 ### Github main page
 
